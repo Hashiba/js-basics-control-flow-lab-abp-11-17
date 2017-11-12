@@ -37,7 +37,9 @@ if (tip === 'generous') {
 else {
   return "Bye.";
 }
-  
+
 }
-  
+
+}
+
 }
